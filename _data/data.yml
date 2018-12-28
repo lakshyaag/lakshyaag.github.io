@@ -38,10 +38,14 @@ sidebar:
       - item: Gaming
         link:
 
+      - item: Sports
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Currently pursuing a degree in Economics from Delhi University, I am looking for opportunities to learn how to apply my education to practical work scenarios, gain hands on experience in understanding the functioning of various industries and hopefully, provide me with more clarity on my area of specialization for post-graduation. Skilled in Python, Microsoft Office and Leadership.
+      Currently pursuing a degree in Economics from Delhi University. 
+      I am looking for opportunities to learn how to apply my education to practical work scenarios, gain hands on experience in understanding the functioning of various industries and provide me with more clarity on my area of specialization for post-graduation.
 
 education:
     - degree: B. A. (Hons.) Economics
@@ -49,6 +53,8 @@ education:
       time: 2017 - 2020
       details: |
         - Scored 8.64 CGPA / 10
+        - Gained conceputal knowledge in the field of Economics.
+        - Ideated and conducted an array of events as part of various renowned socities. 
 
     - degree: ISC (Commerece Stream)
       university: Don Bosco School, Siliguri
@@ -97,14 +103,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Microsoft Office
+        level: 95%
+
       - name: Data Analysis
         level: 90%
 
       - name: Python
         level: 90%
-
-      - name: Microsoft Office
-        level: 95%
 
       - name: Digital Marketing
         level: 85%
