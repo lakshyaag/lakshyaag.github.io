@@ -8,193 +8,111 @@ sidebar:
 
     # Profile information
     name: Lakshya Agarwal
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Student of Economics
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: lakshyagrwal12@gmail.com
+    phone: +91 8509376954
+    website: lakshyaag.github.io #do not add http://
+    linkedin: lakshyaag
+    github: lakshyaag
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@lakshyaag'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Gaming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Currently pursuing a degree in Economics from Delhi University, I am looking for opportunities to learn how to apply my education to practical work scenarios, gain hands on experience in understanding the functioning of various industries and hopefully, provide me with more clarity on my area of specialization for post-graduation. Skilled in Python, Microsoft Office and Leadership.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B. A. (Hons.) Economics
+      university: Hans Raj College, Delhi University
+      time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      8.64 CGPA / 10
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: ISC (Commerece Stream)
+      university: Don Bosco School, Siliguri
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      98%
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: General Secretary
+      time: Aug 2018 - Present
+      company: Hans Raj Economics Society
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Currently guiding a team of 120 members and 8 departments.
+          - Supervised event ideation teams related to utility maximization, policy studies and core economics.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical Head
+      time: Jun 2018 - Present
+      company: Enactus Hansraj
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Currently guiding a department of 20 members.
+          - Training members in graphic designing, video making and website development.
+          - Creating the website and visual and print content for Project Aangan, Project Mithaas and Project Ahsaas
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Subject Matter Expert
+      time: Mar 2018 - Jul 2018
+      company: Testbook Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Involved in writing and managing content in English Language.
+          - Collaborated with skilled professionals to develop educational content.
+          - Understood the education spectrum of India to map scalable solutions.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Digital Payments in India
+        link: "https://drive.google.com/file/d/1se_3lHtggaE6MW0IMmJB3h-p-LqWIKrA/view?usp=sharing"
+        tagline: "The objective of this research paper is to study the performance of the digitization of payment systems in India and the issues that people face while using it."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+      - title: Data Visualization
+        link: "https://www.kaggle.com/lakshyaag/data-visualization-pokemon-data"
+        tagline: "Demonstration of data visualization in Python using pandas and plotly"
+        
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Data Analysis
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Microsoft Office
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Digital Marketing
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adobe Photoshop
+        level: 80%
+
+      - name: Machine Learning
+        level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://linkedin.com/lakshyaag" target="_blank" rel="nofollow">Lakshya Agarwal</a>
