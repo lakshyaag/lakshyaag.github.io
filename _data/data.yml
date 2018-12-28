@@ -48,13 +48,14 @@ education:
       university: Hans Raj College, Delhi University
       time: 2017 - 2020
       details: |
-      8.64 CGPA / 10
+        - Scored 8.64 CGPA / 10
 
     - degree: ISC (Commerece Stream)
       university: Don Bosco School, Siliguri
       time: 2015 - 2017
       details: |
-      98%
+        - Scored 98% in ISC 2017.
+        - Member of Student Council for 4 consecutive years.
 
 experiences:
     - role: General Secretary
