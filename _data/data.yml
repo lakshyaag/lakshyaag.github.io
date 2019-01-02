@@ -87,7 +87,11 @@ projects:
 
       - title: Data Visualization
         link: "https://www.kaggle.com/lakshyaag/data-visualization-pokemon-data"
-        tagline: "Demonstration of data visualization in Python using pandas and plotly"
+        tagline: "Demonstration of data visualization in Python using pandas and plotly."
+      
+      - title: India Air Quality - Exploratory Data Analysis
+        link: "https://www.kaggle.com/lakshyaag/india-air-quality-exploratory-data-analysis"
+        tagline: "Exploratory Data Analysis of India Air Quality for 1987-2015."
         
 skills:
     title: Skills &amp; Proficiency
