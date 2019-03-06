@@ -42,7 +42,7 @@ education:
       university: Hans Raj College, Delhi University
       time: 2017 - 2020
       details: |
-        - Scored 8.64 CGPA / 10
+        - Scored 8.93 CGPA / 10
         - Gained conceputal knowledge in the field of Economics.
         - Ideated and conducted an array of events as part of various renowned socities. 
 
@@ -58,15 +58,16 @@ experiences:
       time: Aug 2018 - Present
       company: Hans Raj Economics Society
       details: |
-          - Currently guiding a team of 120 members and 8 departments.
-          - Supervised event ideation teams related to utility maximization, policy studies and core economics.
+          - Supervised a team of 120 members and 8 departments for event ideation and workshops
+          - Developed marketing strategies for The Economics Championship, with a footfall of 4000+ students
+          - Responsible for creating an action plan and coordinating the efforts of different departments
 
     - role: Technical Head
       time: Jun 2018 - Present
       company: Enactus Hansraj
       details: |
-          - Currently guiding a department of 20 members.
-          - Training members in graphic designing, video making and website development.
+          - Headed and trained a department of 20 members in graphic designing and website development
+          - Developed the structure for website, visual and print content, reaching out to 7000+ individuals
           - Creating the website and visual and print content for Project Aangan, Project Mithaas and Project Ahsaas
 
     - role: Subject Matter Expert
@@ -81,6 +82,11 @@ projects:
     title: Projects
     intro: >
     assignments:
+
+      - title: KPMG Innovation & Collaboration Challenge
+        link: "https://youtu.be/MS8adNHr6U4?t=87"
+        tagline: "Adjudged Runners-up in India for a business model on using Blockchain technology to disrupt the pharmaceutical industry in India and tackle the issue of counterfeit medicines."
+      
       - title: Digital Payments in India
         link: "https://drive.google.com/file/d/1se_3lHtggaE6MW0IMmJB3h-p-LqWIKrA/view?usp=sharing"
         tagline: "The objective of this research paper is to study the performance of the digitization of payment systems in India and the issues that people face while using it."
