@@ -42,7 +42,7 @@ education:
       university: Hans Raj College, Delhi University
       time: 2017 - 2020
       details: |
-        - Scored 8.93 CGPA / 10
+        - Secured 9.00 CGPA / 10
         - Gained conceputal knowledge in the field of Economics.
         - Ideated and conducted an array of events as part of various renowned socities. 
 
@@ -50,12 +50,20 @@ education:
       university: Don Bosco School, Siliguri
       time: 2015 - 2017
       details: |
-        - Scored 98% in ISC 2017.
+        - Scored 98.00% in ISC 2017.
         - Member of Student Council for 4 consecutive years.
 
 experiences:
+    - role: Summer Intern
+      time: Jun 2019 - Aug 2019
+      company: NITI Aayog, Government of India
+      details: |
+          - Developed a draft policy framework to recommend 7+ innovative policy tools aimed at maximizing non-fare revenues to make transport projects financially sustainable 
+          - Analysed Delhi Metro average monthly ridership over 5 years to gain insights and quantify the impact of changes in metro fare on daily ridership 
+          - Conducted a study on impact of infrastructure development in the 8 North-Eastern States and proposed policy recommendations to accelerate them
+
     - role: General Secretary
-      time: Aug 2018 - Present
+      time: Aug 2018 - Jul 2019
       company: Hans Raj Economics Society
       details: |
           - Supervised a team of 120 members and 8 departments for event ideation and workshops
@@ -63,7 +71,7 @@ experiences:
           - Responsible for creating an action plan and coordinating the efforts of different departments
 
     - role: Technical Head
-      time: Jun 2018 - Present
+      time: Jun 2018 - May 2019
       company: Enactus Hansraj
       details: |
           - Headed and trained a department of 20 members in graphic designing and website development
@@ -83,6 +91,14 @@ projects:
     intro: >
     assignments:
 
+      - title: IPL Dashboard
+        link: "https://ipldash.herokuapp.com/"
+        tagline: "A dashboard (web-app) for visualizing the Indian Premier League (IPL) over the past decade (2008-2018)."    
+
+      - title: Indian Trade Dashboard
+        link: "https://tabsoft.co/31HgvFp"
+        tagline: "This dashboard visualizes the trade flow of India with the countries of the world, broken down by commodities that are defined by the Harmonized System (HS2)."            
+
       - title: KPMG Innovation & Collaboration Challenge
         link: "https://youtu.be/MS8adNHr6U4?t=87"
         tagline: "Adjudged Runners-up in India for a business model on using Blockchain technology to disrupt the pharmaceutical industry in India and tackle the issue of counterfeit medicines."
@@ -98,6 +114,8 @@ projects:
       - title: India Air Quality - Exploratory Data Analysis
         link: "https://www.kaggle.com/lakshyaag/india-air-quality-exploratory-data-analysis"
         tagline: "Exploratory Data Analysis of India Air Quality for 1987-2015."
+
+
         
 skills:
     title: Skills &amp; Proficiency
@@ -106,11 +124,14 @@ skills:
       - name: Microsoft Office
         level: 95%
 
-      - name: Data Analysis
-        level: 90%
-
       - name: Python
         level: 90%
+
+      - name: R
+        level: 70%
+
+      - name: Tableau
+        level: 60%
 
       - name: Digital Marketing
         level: 85%
