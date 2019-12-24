@@ -8,6 +8,8 @@ phone: +91 8509376954
 
 menu:
 - {name: Resume, link: '/resume.pdf'}
+- {name: Kaggle, link: 'https://www.kaggle.com/lakshyaag'}
+- {name: GitHub, link: 'https://github.com/lakshyaag/'}
 
 
 #-------------------------------
@@ -56,16 +58,15 @@ skills:
 - {name: Microsoft Office, color: '#bdecf6', value: '90%'}
 - {name: Python, color: '#fdb157', value: '70%'}
 - {name: R, color: '#9473e6', value: '70%'}
-- {name: Adobe Photoshop, color: '#c2ffaa', value: '60%'}
 - {name: Tableau, color: '#ffbcaa', value: '50%'}
-
+- {name: Stata, color: '#c2ffaa', value: '30%'}
 
 #-------------------------------
 # Exprerience Section
 
 experience-title: Experience
 experience:
-- {name: Summer Intern - Infrastructure Connectivity, icon: 'icon-1.png', date: 'Jun 2019 - Aug 2019', organization: 'NITI Aayog'}
+- {name: Summer Intern - NITI Aayog, icon: 'icon-1.png', date: 'Jun 2019 - Aug 2019', organization: ''}
 - {name: General Secretary, icon: 'icon-3.png', date: 'Aug 2018 - Jul 2019', organization: 'Hansraj Economics Society'}
 
 #-------------------------------
@@ -81,23 +82,31 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/india_trade.jpg"
+    url: "https://lakshyaag.shinyapps.io/IndiaTrade/"
+    name: Indian Trade Dashboard
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/ipl_analytics.jpg"
+    url: "https://ipldash.herokuapp.com/"
+    name: IPL Dashboard
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/loksabha_questions.jpg"
+    url: "https://lakshyaag.shinyapps.io/LokSabhaQuestions/"
+    name: 17th Lok Sabha Questions
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  - image : "assets/images/portfolio/crime_dash.jpg"
+    url: "https://lakshyaag.shinyapps.io/CrimeInIndia/"
+    name: Indian Crime Dashboard
     
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/kicc.jpg"
     url: "#"
+    name: KPMG Innovation and Collaboration Challenge 2018
+
+    image: "assets/images/portfolio/digital_payments.jpg"
+    url: "https://drive.google.com/file/d/1se_3lHtggaE6MW0IMmJB3h-p-LqWIKrA/view?usp=sharing"
+    name: Digital Payments in India
 
 
-#-------------------------------
 #-------------------------------
 # Contact Section
 
