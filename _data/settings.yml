@@ -53,11 +53,11 @@ blurb:
 
 skills-title: Skills
 skills:
+- {name: Microsoft Office, color: '#bdecf6', value: '90%'}
 - {name: Python, color: '#fdb157', value: '70%'}
 - {name: R, color: '#9473e6', value: '70%'}
-- {name: Microsoft Office, color: '#bdecf6', value: '90%'}
-- {name: Tableau, color: '#ffbcaa', value: '50%'}
 - {name: Adobe Photoshop, color: '#c2ffaa', value: '60%'}
+- {name: Tableau, color: '#ffbcaa', value: '50%'}
 
 
 #-------------------------------
