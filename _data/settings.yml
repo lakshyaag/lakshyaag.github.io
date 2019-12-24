@@ -1,0 +1,105 @@
+#-------------------------------
+# General Site Settings
+
+title: Lakshya Agarwal
+logo: logo.png
+email: lakshyagrwal12@gmail.com
+phone: +91 8509376954
+
+menu:
+- {name: Resume, link: '/resume.pdf'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: UA-131421147-1
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Hi! I’m <br> Lakshya Agarwal!
+
+social:
+- {icon: "ti-facebook", link: "https://fb.com/lakshyaag"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/lakshyaag/"}
+- {icon: "ti-twitter", link: "https://www.twitter.com/lakshyaag/"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  Hello! I'm Lakshya, a student of Economics, currently living in Delhi, India. <br>I have a keen interest in working with publicly available data and building things that live on the Internet. I am currently looking for opportunites to apply my learning to practical scenarios and gain a wider, more holisitic understanding of various fields. 
+
+  # About Page
+
+#-------------------------------
+# Skills Section
+
+skills-title: Skills
+skills:
+- {name: Python, color: '#fdb157', value: '70%'}
+- {name: R, color: '#9473e6', value: '70%'}
+- {name: Microsoft Office, color: '#bdecf6', value: '90%'}
+- {name: Tableau, color: '#ffbcaa', value: '50%'}
+- {name: Adobe Photoshop, color: '#c2ffaa', value: '60%'}
+
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+- {name: Summer Intern - Infrastructure Connectivity, icon: 'icon-1.png', date: 'Jun 2019 - Aug 2019', organization: 'NITI Aayog'}
+- {name: General Secretary, icon: 'icon-3.png', date: 'Aug 2018 - Jul 2019', organization: 'Hansraj Economics Society'}
+
+#-------------------------------
+# Education Section
+
+education-title: Education
+education:
+- {name: B. A. (Hons. ) Economics, date: '2017-2020', organization: 'Hansraj College, University of Delhi'}
+- {name: ISC (Commerce Stream), date: '2015-2017', organization: 'Don Bosco School, Siliguri'}
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-4.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+
+
+#-------------------------------
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: lakshyagrwal12@gmail.com

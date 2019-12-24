@@ -2,16 +2,14 @@
 layout: default
 ---
 
-{% include career-profile.html %}
+{% include hero-section.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
+{% include about-section.html %}
 
-{% include experiences.html %}
+{% include education-section.html %}
 
-{% include projects.html %}
+{% include skills-section.html %}
 
-{% include skills.html %}
+{% include portfolio-section.html %}
 
-{% include publications.html %}
+{% include experience-section.html %}

@@ -1,6 +1,24 @@
-<footer class="footer">
-    <div class="text-center">
-        <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can check out other license options via our website: themes.3rdwavemedia.com */-->
-        <small class="copyright">{{ site.data.data.footer }}</small>
-    </div><!--//container-->
-</footer><!--//footer-->
+<!-- footer -->
+<footer class="bg-dark footer-section">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+        </div>
+        <div class="col-md-6">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">Copyright ©<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> a theme by themefisher.com</a></p>
+  </div>
+</footer>
+<!-- /footer -->
