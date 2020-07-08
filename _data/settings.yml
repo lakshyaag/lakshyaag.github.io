@@ -88,8 +88,12 @@ portfolio-home-items:
     name: Indian Trade Dashboard
     
   - image : "assets/images/portfolio/ipl_analytics.jpg"
-    url: "https://ipldash.herokuapp.com/"
+    url: "https://lakshyaag.shinyapps.io/IPLDashboard/"
     name: IPL Dashboard
+
+  - image : "assets/images/portfolio/search_trend.jpg"
+    url: "https://lakshyaag.shinyapps.io/SearchTrend/"
+    name: Search Trends in India    
     
   - image : "assets/images/portfolio/loksabha_questions.jpg"
     url: "https://lakshyaag.shinyapps.io/LokSabhaQuestions/"
@@ -98,10 +102,6 @@ portfolio-home-items:
   - image : "assets/images/portfolio/crime_dash.jpg"
     url: "https://lakshyaag.shinyapps.io/CrimeInIndia/"
     name: Indian Crime Dashboard
-    
-  - image : "assets/images/portfolio/kicc.jpg"
-    url: "#"
-    name: KPMG Innovation and Collaboration Challenge 2018
 
     image: "assets/images/portfolio/digital_payments.jpg"
     url: "https://drive.google.com/file/d/1se_3lHtggaE6MW0IMmJB3h-p-LqWIKrA/view?usp=sharing"
